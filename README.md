@@ -1,4 +1,4 @@
-## Olá, Eu sou a Milca
+## Olá, Eu sou a Milca!
 
 - 🔭 Atualmente trabalho com Front-end
 - 🌱 No momento estou estudando HTML5, CSS3 e JavaScript
