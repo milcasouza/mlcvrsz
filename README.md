@@ -1,7 +1,7 @@
-## Olá, Eu sou a Milca!
+## Olá! Eu sou a Milca
 
-- 🔭 Atualmente trabalho com Front-end
-- 🌱 No momento estou estudando HTML5, CSS3 e JavaScript
+- 🔭 Trabalho com Front-end
+- 🌱 Atualmente estou estudando HTML5, CSS3 e JavaScript
 
 <div align="center">
   <a href="https://github.com/mlcvrsz">
@@ -9,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlcvrsz&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Milca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Milca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Milca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Milca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
