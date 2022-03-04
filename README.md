@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Milca
 
 - 🔭 Trabalho com Front-end
-- 🌱 Atualmente estou estudando HTML5, CSS3 e JavaScript
+- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript e Java
 
 <div align="center">
   <a href="https://github.com/mlcvrsz">
