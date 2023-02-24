@@ -12,7 +12,7 @@
 
 <h2>Linguagems Utilizadas:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlcvrsz&layout=compact&theme=omni)](https://github.com/mlcvrsz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlcvrsz&layout=compact&theme=github_dark)](https://github.com/mlcvrsz/github-readme-stats)
 
 ## Contato:
 
