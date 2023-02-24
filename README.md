@@ -1,15 +1,20 @@
-## Olá! Eu sou a Milca
+## Olá! Eu sou a Milca!
 
 - 🔭 Trabalho com Front-end.
 - 🌱 Atualmente estou estudando JavaScript.
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Milca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Milca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Milca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+<h2>Skills (Client-Side):</h2>
+<p>Minhas habilidades em Front-end são:</p>
 
-##
+![HTML](https://img.shields.io/badge/HTML%205-323330?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<h2>Linguagems Utilizadas:</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlcvrsz&layout=compact&theme=omni)](https://github.com/mlcvrsz/github-readme-stats)
+
+## Contato:
 
 <div>
   <a href = "mailto:mlcvrsz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
