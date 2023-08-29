@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Milca!
 
-- 🔭 Trabalho com Front-end.
-- 🌱 Atualmente estou estudando JavaScript.
+- 🔭 Trabalho com Front-end e Análise de Dados.
+- 🌱 Atualmente estou estudando Google Sheets, Excel, SQL e Tableau.
 
 <h2>Skills (Client-Side):</h2>
 <p>Minhas habilidades em Front-end são:</p>
@@ -17,6 +17,6 @@
 ## Contato:
 
 <div>
-  <a href = "mailto:mlcvrsz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mlcvrsz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:milcasouza.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/milcasouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
