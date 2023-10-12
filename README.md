@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Milca!
 
-- 🔭 Trabalho com Front-end e Análise de Dados.
-- 🌱 Atualmente estou estudando Google Sheets, Excel, SQL e Tableau.
+- 🔭 Trabalho com Front-end e UX/UI Design.
+- 🌱 Atualmente estou estudando sobre Wireframes e Prototipagem.
 
 <h2>Skills (Client-Side):</h2>
 <p>Minhas habilidades em Front-end são:</p>
